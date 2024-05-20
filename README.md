@@ -2,7 +2,7 @@
 
 <h2> Hi, I'm Ahmad Fathir! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVrOWV3ZHNkenFiZjExb2x1OTMycW5tcnNneXVpMXF0aDdmY2FyNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://idn.sch.id">SMK IDN Boarding School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
+<p><em>Software Engineering Student at <a href="http://idn.sch.id">SMK IDN Boarding School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
 
 [![Linkedin: fathirraja](https://img.shields.io/badge/-fathirraja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/fathirraja/)](https://www.linkedin.com/in/fathirraja/)
 
