@@ -12,7 +12,7 @@
 const thir = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, PHP],
-  tools: [React, Redux, Node, Jquery, Styled-Components, Laravel],
+  tools: [React, Node, Jquery, Styled-Components, Laravel],
 }
 ```
 
